@@ -50,24 +50,24 @@ plus： 查看 [Firebase Auth REST Api](https://firebase.google.com/docs/referen
 
 5.替换 auth 模块中的 actions 文件中 API_KEY 为 4 中复制好的 api key
 
-secondTimePrac
-└─ src
-└─ store
-└─ modules
-├─ auth
+secondTimePrac<br>
+└─ src<br>
+└─ store<br>
+└─ modules<br>
+├─ auth<br>
 └─ actions.js \*
 
 6. 替换 coaches 和 requests 文件中 projectURL 为 4 中 复制好的数据库 api 链接
-   secondTimePractice
-   └─ src
-   └─ store
-   ├─ index.js
-   └─ modules
-   ├─ auth
-   ├─ coaches
-   │ ├─ actions.js _
-   └─ requests
-   ├─ actions.js _
+   secondTimePractice<br>
+   └─ src<br>
+   └─ store<br>
+   ├─ index.js<br>
+   └─ modules<br>
+   ├─ auth<br>
+   ├─ coaches<br>
+   │ ├─ actions.js \*<br>
+   └─ requests<br>
+   ├─ actions.js \*<br>
 
 7. npm install //安装 node 运行环境
 8. npm run serve // 在开发模式下启动项目
